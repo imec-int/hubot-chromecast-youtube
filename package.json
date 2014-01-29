@@ -1,0 +1,22 @@
+{
+  "name": "hubot-chromecast-youtube",
+  "version": "0.0.1",
+  "description": "Starts a YouTube video with Hubot",
+  "keywords": [
+    "hubot",
+    "chromecast",
+    "youtube"
+  ],
+  "author": "Sam Decrock / mixbe",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mixbe/hubot-chromecast-youtube"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "scripts/index.coffee",
+  "dependencies": {
+    "hubot": ">= 2.4.0",
+    "chromecast": ">= 0.0.4"
+  }
+}
