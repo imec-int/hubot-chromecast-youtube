@@ -10,6 +10,10 @@ To enable the script, add the `hubot-chromecast-youtube` entry to the `external-
 
     ["hubot-chromecast-youtube"]
 
+You can specify a Chromecast, by setting the following environment variable:
+
+    HUBOT_CHROMECAST_NAME="Your Chromecast Name"
+
 ## Commands
 
 Use 
